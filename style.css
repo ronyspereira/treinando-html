@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100vw;
+    width: 600%;
 }
 
 .form {
@@ -23,8 +23,18 @@ body {
     flex-direction:row;
     justify-content: center;
     align-items: center;
-    max-width: 500%;
+    max-width: 500px;
     border: solid 1px;
     border-radius: 15px;
     box-shadow: 0 0 10px;
+}
+
+button {
+
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    color: white;
+    border-radius: 15px;
+    width: 100vw;
 }
