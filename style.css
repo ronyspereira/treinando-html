@@ -5,7 +5,6 @@
 }
 
 body {
-    display: flex;
     background-color: lightgray;
     font-family: sans-serif;
     width: 100%;
@@ -24,4 +23,5 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 500%;
 }
