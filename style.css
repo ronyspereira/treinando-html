@@ -16,6 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 600%;
+    height: 800%;
     border: solid 1px;
     border-radius: 15px;
     box-shadow: 0 0 10px;
@@ -38,5 +39,10 @@ button {
     background-color: lightgreen;
     color: white;
     border-radius: 15px;
-    width: 100vw;
+    width: 100px;
+}
+
+footer {
+    background-color: lightslategray;
+    padding: 20px;
 }
